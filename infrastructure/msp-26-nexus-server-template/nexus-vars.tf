@@ -1,4 +1,4 @@
-variable "mykey" {}
+variable "FirstKey" {}
 variable "ami" {
   description = "amazon linux 2 ami"
 }
