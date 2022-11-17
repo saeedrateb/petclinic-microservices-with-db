@@ -1,4 +1,4 @@
-mykey = "petclinic"
+mykey = "FirstKey"
 ami = "ami-0cff7528ff583bf9a"
 region = "us-east-1"
 instance_type = "t3a.medium"
